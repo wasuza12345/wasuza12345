@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <img src="./assets/dino.gif" alt="Dinosaur animation" width="600" />
+  <img src="./assets/wasu-github-banner.gif" alt="Dinosaur animation" width="600" />
 </p>
