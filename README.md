@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <i>Building useful products, one commit at a time.</i>
+  <img src="./assets/dino.gif" alt="Dinosaur animation" width="600" />
 </p>
